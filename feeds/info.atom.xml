@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Green World - Info</title><link href="/" rel="alternate"></link><link href="feeds/info.atom.xml" rel="self"></link><id>/</id><updated>2022-03-15T15:28:00+08:00</updated><entry><title>Financing &amp; Investment</title><link href="fin-inv-zh.html" rel="alternate"></link><published>2022-03-15T15:28:00+08:00</published><updated>2022-03-15T15:28:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2022-03-15:fin-inv-zh.html</id><summary type="html">&lt;p&gt;Weekly info about financing and investment activities｜一周投融资情报&lt;/p&gt;</summary><content type="html">&lt;p&gt;Period: 2022/03/07 - 2022/03/13&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Green World - Info</title><link href="/" rel="alternate"></link><link href="feeds/info.atom.xml" rel="self"></link><id>/</id><updated>2022-03-31T21:10:00+08:00</updated><entry><title>Financing &amp; Investment</title><link href="fin-inv-zh.html" rel="alternate"></link><published>2022-03-31T21:10:00+08:00</published><updated>2022-03-31T21:10:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2022-03-31:fin-inv-zh.html</id><summary type="html">&lt;p&gt;Weekly info about financing and investment activities｜一周投融资情报&lt;/p&gt;</summary><content type="html">&lt;p&gt;Period: 2022/03/14 - 2022/03/27 (2 weeks)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;*&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;* 2022/03/14 - 2022/03/20 &lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;*&lt;/em&gt;&lt;/strong&gt;*&lt;/p&gt;
 &lt;p&gt;&lt;img alt="all_1" src="./images/all_1.png" width="100%"&gt;
-&lt;img alt="all_2" src="./images/all_2.png" width="100%"&gt;
-&lt;img alt="all_3" src="./images/all_3.png" width="100%"&gt;&lt;/p&gt;
+&lt;img alt="all_2" src="./images/all_2.png" width="100%"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="suzhou_1" src="./images/suzhou_1.png" width="100%"&gt;
 &lt;img alt="suzhou_2" src="./images/suzhou_2.png" width="100%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;*&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;* 2022/03/21 - 2022/03/27 &lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;*&lt;/em&gt;&lt;/strong&gt;*&lt;/p&gt;
+&lt;p&gt;&lt;img alt="all_3" src="./images/all_3.png" width="100%"&gt;
+&lt;img alt="all_4" src="./images/all_4.png" width="100%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="suzhou_3" src="./images/suzhou_3.png" width="100%"&gt;&lt;/p&gt;
 &lt;h2&gt;Comments&lt;/h2&gt;
-&lt;p&gt;看到熊小夕的感受：我越来越不懂新消费了。 &lt;br&gt;
-消费点看似可有可无，不消费也不会影响到好好活着。但是你说买了吧，确实能提升那么一点点生活质量。  &lt;br&gt;
-说实话，奶茶机和 VC 莲蓬头我是不能理解的。最朴实、不长胖的奶茶不就是红茶+牛奶吗？？实在懒得加牛奶，直接入手 Harney&amp;amp;Sons 的 Paris 不香吗？奶茶机=烧水壶+低功率搅拌机，用完还得洗，真的不理解。  &lt;br&gt;
-更离谱的是，对比除氯加精油的莲蓬头，想想有些地方连用上加氯消毒的自来水都困难，就感觉世界好割裂。。。   &lt;/p&gt;
-&lt;p&gt;那家写了一堆深度学习、机器学习的公司，一个软著也没有，不会用的是开源的包？？&lt;/p&gt;</content><category term="Info"></category><category term="Financing"></category><category term="Investment"></category><category term="Weekly Info"></category></entry></feed>
+&lt;p&gt;老热点：半导体、生物医药、AI。   &lt;/p&gt;
+&lt;p&gt;新热点：物流、供应链、气体等化工原料、储能、征信、电商（？？）   &lt;/p&gt;
+&lt;p&gt;【拟开发一个“投融资词云”板块替代 Comments】&lt;/p&gt;</content><category term="Info"></category><category term="Financing"></category><category term="Investment"></category><category term="Weekly Info"></category></entry></feed>
