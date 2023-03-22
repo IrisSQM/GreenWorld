@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} - {{ _('Contact') }}{% endblock %}
+{% block meta %}
+    <meta name="description" content="{{ SITENAME }} - Contact" />
+{% endblock %}
+
+{% block content %}
+
+      <div class="fh5co-more-contact">
+        <div class="fh5co-narrow-content">
+          <div class="row">
+
+            {% if 'mail' in ABOUT %}
+              <div class="col-md-4">
+                <div class="fh5co-feature fh5co-feature-sm animate-box" data-animate-effect="fadeInLeft">
+                  <div class="fh5co-icon">
+                      {% if 'image' in ABOUT %}
+                        <img class="about-image" src="{{ ABOUT.image }}" />
+                      {% else %}
+                        <i class="icon-globe"></i>
+                      {% endif %}
+                  </div>
+                  <div class="fh5co-text">
+                    <p><a href="mailto:{{ ABOUT.mail }}">{{ ABOUT.mail }}</a></p>
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+
+            {% if 'address' in ABOUT %}
+              <div class="col-md-4">
+                <div class="fh5co-feature fh5co-feature-sm animate-box" data-animate-effect="fadeInLeft">
+                  <div class="fh5co-icon">
+                    <i class="icon-world2"></i>
+                  </div>
+                  <div class="fh5co-text">
+                    <p>{{ ABOUT.address }}</p>
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+
+            {% if 'phone' in ABOUT %}
+            <div class="col-md-4">
+              <div class="fh5co-feature fh5co-feature-sm animate-box" data-animate-effect="fadeInLeft">
+                <div class="fh5co-icon">
+                  <i class="icon-phone"></i>
+                </div>
+                <div class="fh5co-text">
+                  <p><a href="tel://">{{ ABOUT.phone }}</a></p>
+                </div>
+              </div>
+            </div>
+            {% endif %}
+
+          </div>
+        </div>
+      </div>
+
+
+      <div class="fh5co-narrow-content animate-box" data-animate-effect="fadeInLeft">  
+        <div class="row">
+            <h2>{{ _('Get in touch') }}</h2>
+            <body>If you have any comments, please contact me through email. Thank you!</body>
+        </div>
+      </div>
+
+
+      {% if 'address' in ABOUT %}
+        <div class="fh5co-feature fh5co-feature-sm animate-box" data-animate-effect="fadeInLeft">
+          <div id="map" data-address="{{ ABOUT.address }}"></div>
+        </div>
+      {% endif %}
+
+
+{% endblock %}
+
+{% block custom_js %}
+  {% if GOOGLE_MAPS_KEY %}
+    <script src="https://maps.googleapis.com/maps/api/js?key={{ GOOGLE_MAPS_KEY }}&sensor=false"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/google_map.js"></script>
+  {% endif %}
+{% endblock %}
