@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Green World - Projects</title><link href="/" rel="alternate"></link><link href="feeds/projects.atom.xml" rel="self"></link><id>/</id><updated>2024-01-27T11:20:00+08:00</updated><entry><title>独立项目</title><link href="projects-zh.html" rel="alternate"></link><published>2024-01-27T11:20:00+08:00</published><updated>2024-01-27T11:20:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2024-01-27:projects-zh.html</id><summary type="html">&lt;p&gt;Something interesting.&lt;/p&gt;</summary><content type="html">&lt;h3&gt;项目看板&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="project dashboard" src="./images/project_dashboard.png" width="80%"&gt;&lt;/p&gt;
+&lt;div align = "left"&gt;
+   &lt;div&gt;**********&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;希娃（CEva）&lt;/h4&gt;
+&lt;p&gt;希娃（CEva）是一个专门用于职业评估（&lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation）的开源软件。  &lt;/p&gt;
+&lt;p&gt;CEva is an open-source app built specifically for &lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation. &lt;/p&gt;
+&lt;p&gt;网页版app&lt;a href="https://ceva-career-evaluation.streamlit.app"&gt;链接&lt;/a&gt;：https://ceva-career-evaluation.streamlit.app&lt;/p&gt;
+&lt;h4&gt;年度报告 (IAR)&lt;/h4&gt;
+&lt;p&gt;﻿
+2023年度报告：从“绿色世界”到“红色世界”-2023年的双赤字&lt;/p&gt;
+&lt;p&gt;IAR 2023: FROM GREEN WORLD TO RED WORLD The Double Negative of 2023&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.canva.com/design/DAF7C5Fozzk/ZzK6_5BVimC0TcALCD3fqg/edit?utm_content=DAF7C5Fozzk&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=sharebutton"&gt;公开版链接&lt;/a&gt;&lt;/p&gt;</content><category term="Projects"></category><category term="Projects"></category></entry></feed>
