@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Green World</title><link href="/" rel="alternate"></link><link href="feeds/all-zh.atom.xml" rel="self"></link><id>/</id><updated>2024-11-03T11:20:00+08:00</updated><entry><title>考察手记</title><link href="field-study-zh.html" rel="alternate"></link><published>2024-11-03T11:20:00+08:00</published><updated>2024-11-03T11:20:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2024-11-03:field-study-zh.html</id><summary type="html">&lt;p&gt;世界那么大，我想用脚步去丈量，用眼睛去观察，用嘴巴去品味，用笔尖去记录。&lt;/p&gt;</summary><content type="html">&lt;h2&gt;考察手记链接汇总&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Green World</title><link href="/" rel="alternate"></link><link href="feeds/all-zh.atom.xml" rel="self"></link><id>/</id><updated>2025-01-06T11:20:00+08:00</updated><entry><title>CEva &amp; IAR</title><link href="projects-zh.html" rel="alternate"></link><published>2025-01-06T11:20:00+08:00</published><updated>2025-01-06T11:20:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2025-01-06:projects-zh.html</id><summary type="html">&lt;p&gt;职业评估开源软件（CEva）和年度报告（IAR）&lt;/p&gt;</summary><content type="html">&lt;h3&gt;希娃（CEva）&lt;/h3&gt;
+&lt;p&gt;希娃（CEva）是一个专门用于职业评估（&lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation）的开源软件。  &lt;/p&gt;
+&lt;p&gt;CEva is an open-source app built specifically for &lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation. &lt;/p&gt;
+&lt;p&gt;网页版app&lt;a href="https://ceva-career-evaluation.streamlit.app"&gt;链接&lt;/a&gt;：https://ceva-career-evaluation.streamlit.app&lt;/p&gt;
+&lt;h3&gt;年度报告 (IAR)&lt;/h3&gt;
+&lt;h4&gt;2024年度报告：“温水煮懒獴”&lt;/h4&gt;
+&lt;p&gt;IAR 2024: Boiling Year in Laziness
+&lt;a href="https://www.canva.com/design/DAGafbupEMQ/pd7_8-6t7sQxoS6X7ucm7Q/view?utm_content=DAGafbupEMQ&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=uniquelinks&amp;amp;utlId=h118692f26a"&gt;公开版链接&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;2023年度报告：从“绿色世界”到“红色世界”-2023年的双赤字&lt;/h4&gt;
+&lt;p&gt;IAR 2023: FROM GREEN WORLD TO RED WORLD The Double Negative of 2023
+&lt;a href="https://www.canva.com/design/DAF7C5Fozzk/ZzK6_5BVimC0TcALCD3fqg/edit?utm_content=DAF7C5Fozzk&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=sharebutton"&gt;公开版链接&lt;/a&gt;&lt;/p&gt;</content><category term="Projects"></category><category term="Projects"></category></entry><entry><title>考察手记</title><link href="field-study-zh.html" rel="alternate"></link><published>2024-11-03T11:20:00+08:00</published><updated>2024-11-03T11:20:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2024-11-03:field-study-zh.html</id><summary type="html">&lt;p&gt;世界那么大，我想用脚步去丈量，用眼睛去观察，用嘴巴去品味，用笔尖去记录。&lt;/p&gt;</summary><content type="html">&lt;h2&gt;考察手记链接汇总&lt;/h2&gt;
 &lt;h3&gt;中国篇&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://1drv.ms/b/c/da576873c7b9d13d/ES5m-Ev4sgVBsyvtkl2JRfUB1O-zY31i5C6AstudnphmOA?e=7jxs6X"&gt;考察手记1：珠海斗门镇&lt;/a&gt;&lt;/p&gt;</content><category term="Projects"></category><category term="Projects"></category></entry><entry><title>杂碎 (Snippets)</title><link href="snippets-zh.html" rel="alternate"></link><published>2024-11-03T10:38:00+08:00</published><updated>2024-11-03T10:38:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2024-11-03:snippets-zh.html</id><summary type="html">&lt;p&gt;A tree hole to dump thoughts｜思绪杂碎&lt;/p&gt;</summary><content type="html">&lt;p&gt;杂碎（Snippets）是一个记录思绪（threads of thoughts）的书摘板块。&lt;/p&gt;
 &lt;h3&gt;Prologue&lt;/h3&gt;
@@ -789,17 +799,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;（元杂剧）冲州撞府。那些行院人，那些妓女、院人、伶人、乞者，那些最卑微的人、最低贱的人，他们的脑袋真是硬啊，那是蒙古灭金之后灭宋之前的北方，是幽暗的风雪大地，他们就这般野着、浪着，揣一腔子血、拎一条命，在这世间冲撞过去，是一嗓子吼醒一十八里地，是两行泪酸煞了九百九十九人的心。&lt;/p&gt;
 &lt;p&gt;（书法）书法已经沦为了一种造型艺术。它被切断了与日常书写的联系，谁还会用毛笔在花笺上写一封信？然后，更重要的，它把自己收藏进博物馆，它把自己悬挂起来，它失去了与这个时代新鲜的、活着的文化经验的联系，你不能用毛笔抄写一首新诗或者一篇白话散文，这种艺术如此地依赖记忆——以至于它不再是现实。&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="Snippets"></category><category term="Snippets"></category></entry><entry><title>CEva &amp; IAR</title><link href="projects-zh.html" rel="alternate"></link><published>2024-01-27T11:20:00+08:00</published><updated>2024-01-27T11:20:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2024-01-27:projects-zh.html</id><summary type="html">&lt;p&gt;职业评估开源软件（CEva）和年度报告（IAR）&lt;/p&gt;</summary><content type="html">&lt;h4&gt;希娃（CEva）&lt;/h4&gt;
-&lt;p&gt;希娃（CEva）是一个专门用于职业评估（&lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation）的开源软件。  &lt;/p&gt;
-&lt;p&gt;CEva is an open-source app built specifically for &lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation. &lt;/p&gt;
-&lt;p&gt;网页版app&lt;a href="https://ceva-career-evaluation.streamlit.app"&gt;链接&lt;/a&gt;：https://ceva-career-evaluation.streamlit.app&lt;/p&gt;
-&lt;h4&gt;年度报告 (IAR)&lt;/h4&gt;
-&lt;p&gt;﻿&lt;/p&gt;
-&lt;h5&gt;2024年度报告【2024/12/24发布】&lt;/h5&gt;
-&lt;p&gt;IAR 2024 (to be released on 24 December 2024)&lt;/p&gt;
-&lt;h5&gt;2023年度报告：从“绿色世界”到“红色世界”-2023年的双赤字&lt;/h5&gt;
-&lt;p&gt;IAR 2023: FROM GREEN WORLD TO RED WORLD The Double Negative of 2023&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.canva.com/design/DAF7C5Fozzk/ZzK6_5BVimC0TcALCD3fqg/edit?utm_content=DAF7C5Fozzk&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=sharebutton"&gt;公开版链接&lt;/a&gt;&lt;/p&gt;</content><category term="Projects"></category><category term="Projects"></category></entry><entry><title>观后感：讲座“台北故宫博物院的挑战与应变”及画展“故事新说”</title><link href="old-story-retold-zh.html" rel="alternate"></link><published>2024-01-20T21:00:00+08:00</published><updated>2024-01-20T21:00:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2024-01-20:old-story-retold-zh.html</id><summary type="html">&lt;p&gt;“典藏是博物馆的心脏，教育是博物馆的灵魂”&lt;/p&gt;</summary><content type="html">&lt;p&gt;今天看展有幸遇上台北故宫前院长冯院长分享博物馆管理经验，心得如下：&lt;/p&gt;
+&lt;/blockquote&gt;</content><category term="Snippets"></category><category term="Snippets"></category></entry><entry><title>观后感：讲座“台北故宫博物院的挑战与应变”及画展“故事新说”</title><link href="old-story-retold-zh.html" rel="alternate"></link><published>2024-01-20T21:00:00+08:00</published><updated>2024-01-20T21:00:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2024-01-20:old-story-retold-zh.html</id><summary type="html">&lt;p&gt;“典藏是博物馆的心脏，教育是博物馆的灵魂”&lt;/p&gt;</summary><content type="html">&lt;p&gt;今天看展有幸遇上台北故宫前院长冯院长分享博物馆管理经验，心得如下：&lt;/p&gt;
 &lt;h3&gt;讲座：挑战与应变&lt;/h3&gt;
 &lt;p&gt;1933年，北平故宫（及热河、沈阳博物馆）典藏文物南迁，总计13,427箱零64包，1949年仅运达2,824箱，&lt;strong&gt;不到四分之一&lt;/strong&gt;。2015年，这些北平典藏占台北故宫总典藏量85.84%，撑起了一个世界前十大博物馆。让人心疑+心痛的是，路上四分之三的文物都去哪里了？&lt;/p&gt;
 &lt;p&gt;院长从三个角度分享了博物馆面临的挑战：   &lt;/p&gt;
