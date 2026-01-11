@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Green World - OpenNote</title><link href="/" rel="alternate"></link><link href="feeds/opennote.atom.xml" rel="self"></link><id>/</id><updated>2025-10-18T11:20:00+08:00</updated><entry><title>Field Study | 考察手记</title><link href="field-study-zh.html" rel="alternate"></link><published>2025-10-18T11:20:00+08:00</published><updated>2025-10-18T11:20:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2025-10-18:field-study-zh.html</id><summary type="html">&lt;p&gt;世界那么大，我想用脚步去丈量，用眼睛去观察，用嘴巴去品味，用笔尖去记录。&lt;/p&gt;</summary><content type="html">&lt;h2&gt;考察手记链接汇总&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Green World - OpenNote</title><link href="/" rel="alternate"></link><link href="feeds/opennote.atom.xml" rel="self"></link><id>/</id><updated>2026-01-11T11:20:00+08:00</updated><entry><title>CEva &amp; IAR</title><link href="projects-zh.html" rel="alternate"></link><published>2026-01-11T11:20:00+08:00</published><updated>2026-01-11T11:20:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2026-01-11:projects-zh.html</id><summary type="html">&lt;p&gt;职业评估开源软件（CEva）和年度报告（IAR）&lt;/p&gt;</summary><content type="html">&lt;h3&gt;希娃（CEva）&lt;/h3&gt;
+&lt;p&gt;希娃（CEva）是一个专门用于职业评估（&lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation）的开源软件。  &lt;/p&gt;
+&lt;p&gt;CEva is an open-source app built specifically for &lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation. &lt;/p&gt;
+&lt;p&gt;网页版app&lt;a href="https://ceva-career-evaluation.streamlit.app"&gt;链接&lt;/a&gt;：https://ceva-career-evaluation.streamlit.app&lt;/p&gt;
+&lt;h3&gt;年度报告 (IAR)&lt;/h3&gt;
+&lt;h4&gt;2025年度报告：无知无涯&lt;/h4&gt;
+&lt;p&gt;IAR 2025: Into the Unknown 
+&lt;a href="https://www.canva.com/design/DAG9pCbe6Ew/0gCPL7Yw2H7gpffpz1y5Iw/edit?utm_content=DAG9pCbe6Ew&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=sharebutton"&gt;公开版链接&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;2024年度报告：“温水煮懒獴”&lt;/h4&gt;
+&lt;p&gt;IAR 2024: Boiling Year in Laziness 
+&lt;a href="https://www.canva.com/design/DAGafbupEMQ/pd7_8-6t7sQxoS6X7ucm7Q/view?utm_content=DAGafbupEMQ&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=uniquelinks&amp;amp;utlId=h118692f26a"&gt;公开版链接&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;2023年度报告：从“绿色世界”到“红色世界”-2023年的双赤字&lt;/h4&gt;
+&lt;p&gt;IAR 2023: FROM GREEN WORLD TO RED WORLD The Double Negative of 2023 
+&lt;a href="https://www.canva.com/design/DAF7C5Fozzk/ZzK6_5BVimC0TcALCD3fqg/edit?utm_content=DAF7C5Fozzk&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=sharebutton"&gt;公开版链接&lt;/a&gt;&lt;/p&gt;</content><category term="OpenNote"></category><category term="OpenNote"></category></entry><entry><title>Field Study | 考察手记</title><link href="field-study-zh.html" rel="alternate"></link><published>2025-10-18T11:20:00+08:00</published><updated>2025-10-18T11:20:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2025-10-18:field-study-zh.html</id><summary type="html">&lt;p&gt;世界那么大，我想用脚步去丈量，用眼睛去观察，用嘴巴去品味，用笔尖去记录。&lt;/p&gt;</summary><content type="html">&lt;h2&gt;考察手记链接汇总&lt;/h2&gt;
 &lt;h3&gt;中国篇&lt;/h3&gt;
 &lt;h3&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://1drv.ms/b/c/da576873c7b9d13d/ES5m-Ev4sgVBsyvtkl2JRfUB1O-zY31i5C6AstudnphmOA?e=7jxs6X"&gt;考察手记1：珠海斗门镇&lt;/a&gt;&lt;/p&gt;
@@ -41,17 +54,4 @@
 &lt;li&gt;行业层面，ESG评级分歧度介于0.7-1.39个等级之间，其中&lt;strong&gt;公用事业、原材料和非必需消费品&lt;/strong&gt;是评级机构分歧最大的三个行业。行业间的评级分布形态差异显著—从类似正态分布到双峰分布乃至阶梯式分布均有呈现。 &lt;/li&gt;
 &lt;li&gt;At individual company level, &lt;strong&gt;high emitting product producers and conglomerates&lt;/strong&gt;, with their own challenges in evaluating and disclosing ESG performance, are more likely to trigger disagreement between rating providers. &lt;/li&gt;
 &lt;li&gt;企业层面，&lt;strong&gt;高碳排产品生产商和综合性集团企业&lt;/strong&gt;面临ESG绩效评估与披露的特殊挑战，更易引发评级机构间的意见分歧。 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="OpenNote"></category><category term="OpenNote"></category></entry><entry><title>CEva &amp; IAR</title><link href="projects-zh.html" rel="alternate"></link><published>2025-01-06T11:20:00+08:00</published><updated>2025-01-06T11:20:00+08:00</updated><author><name>Iris</name></author><id>tag:None,2025-01-06:projects-zh.html</id><summary type="html">&lt;p&gt;职业评估开源软件（CEva）和年度报告（IAR）&lt;/p&gt;</summary><content type="html">&lt;h3&gt;希娃（CEva）&lt;/h3&gt;
-&lt;p&gt;希娃（CEva）是一个专门用于职业评估（&lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation）的开源软件。  &lt;/p&gt;
-&lt;p&gt;CEva is an open-source app built specifically for &lt;strong&gt;C&lt;/strong&gt;areer &lt;strong&gt;EVa&lt;/strong&gt;luation. &lt;/p&gt;
-&lt;p&gt;网页版app&lt;a href="https://ceva-career-evaluation.streamlit.app"&gt;链接&lt;/a&gt;：https://ceva-career-evaluation.streamlit.app&lt;/p&gt;
-&lt;h3&gt;年度报告 (IAR)&lt;/h3&gt;
-&lt;h4&gt;2025年度报告：无知无涯&lt;/h4&gt;
-&lt;p&gt;IAR 2025: Into the Unknown&lt;/p&gt;
-&lt;p&gt;（forthcoming）&lt;/p&gt;
-&lt;h4&gt;2024年度报告：“温水煮懒獴”&lt;/h4&gt;
-&lt;p&gt;IAR 2024: Boiling Year in Laziness
-&lt;a href="https://www.canva.com/design/DAGafbupEMQ/pd7_8-6t7sQxoS6X7ucm7Q/view?utm_content=DAGafbupEMQ&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=uniquelinks&amp;amp;utlId=h118692f26a"&gt;公开版链接&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;2023年度报告：从“绿色世界”到“红色世界”-2023年的双赤字&lt;/h4&gt;
-&lt;p&gt;IAR 2023: FROM GREEN WORLD TO RED WORLD The Double Negative of 2023
-&lt;a href="https://www.canva.com/design/DAF7C5Fozzk/ZzK6_5BVimC0TcALCD3fqg/edit?utm_content=DAF7C5Fozzk&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=sharebutton"&gt;公开版链接&lt;/a&gt;&lt;/p&gt;</content><category term="OpenNote"></category><category term="OpenNote"></category></entry></feed>
+&lt;/ul&gt;</content><category term="OpenNote"></category><category term="OpenNote"></category></entry></feed>
